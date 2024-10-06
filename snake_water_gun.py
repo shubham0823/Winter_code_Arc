@@ -12,6 +12,7 @@ class SnakeWaterGun():
         print ("computer pick 3:-gun \nresult")
     
 
+    
     if (computer_pick==player):
         print ("Draw")
 
